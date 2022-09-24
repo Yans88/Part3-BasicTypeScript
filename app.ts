@@ -1,7 +1,3 @@
-# Part3-BasicTypeScript
-Jum'at, 23 September 2022
-
-<pre>
 interface Data {
     id: number;
     nama: string;
@@ -49,4 +45,3 @@ showData.tampilData();
 
 let data = [1,2,3];
 console.log(showData.myArray(data));
-</pre>
